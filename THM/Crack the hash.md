@@ -77,7 +77,7 @@ $6$aReallyHardSalt$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41
 aReallyHardSalt
 ```
 
-![](../Pasted%20image%2020260506133613.png)
+![](../images/Pasted%20image%2020260506133613.png)
 
 ---
 Хэш:
