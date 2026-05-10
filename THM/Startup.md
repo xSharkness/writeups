@@ -16,7 +16,8 @@ Whoever is leaving these damn Among Us memes in this share, it IS NOT FUNNY. Peo
 
 ![](../images/Pasted%20image%2020260510123436.png)
 
-Внутри картинки находится архив
+Посмотрим binwalk
+
 ```
 └─$ binwalk important.jpg  
 
